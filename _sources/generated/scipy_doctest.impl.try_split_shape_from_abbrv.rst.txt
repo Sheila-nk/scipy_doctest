@@ -1,0 +1,6 @@
+﻿scipy\_doctest.impl.try\_split\_shape\_from\_abbrv
+==================================================
+
+.. currentmodule:: scipy_doctest.impl
+
+.. autofunction:: try_split_shape_from_abbrv

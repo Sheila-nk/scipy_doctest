@@ -1,0 +1,6 @@
+﻿scipy\_doctest.impl.try\_convert\_printed\_array
+================================================
+
+.. currentmodule:: scipy_doctest.impl
+
+.. autofunction:: try_convert_printed_array

@@ -1,0 +1,6 @@
+﻿scipy\_doctest.plugin.pytest\_ignore\_collect
+=============================================
+
+.. currentmodule:: scipy_doctest.plugin
+
+.. autofunction:: pytest_ignore_collect

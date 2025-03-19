@@ -1,0 +1,6 @@
+﻿scipy\_doctest.frontend.testmod
+===============================
+
+.. currentmodule:: scipy_doctest.frontend
+
+.. autofunction:: testmod

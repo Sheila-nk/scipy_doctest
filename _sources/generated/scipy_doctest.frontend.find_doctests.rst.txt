@@ -1,0 +1,6 @@
+﻿scipy\_doctest.frontend.find\_doctests
+======================================
+
+.. currentmodule:: scipy_doctest.frontend
+
+.. autofunction:: find_doctests

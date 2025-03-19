@@ -1,0 +1,6 @@
+﻿scipy\_doctest.plugin.pytest\_configure
+=======================================
+
+.. currentmodule:: scipy_doctest.plugin
+
+.. autofunction:: pytest_configure

@@ -1,7 +1,0 @@
-__pycache__
-
-lib/
-bin/
-venv/
-.pytest_cache
-dist/

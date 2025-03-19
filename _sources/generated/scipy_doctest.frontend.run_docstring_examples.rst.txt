@@ -1,0 +1,6 @@
+﻿scipy\_doctest.frontend.run\_docstring\_examples
+================================================
+
+.. currentmodule:: scipy_doctest.frontend
+
+.. autofunction:: run_docstring_examples

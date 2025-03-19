@@ -1,0 +1,6 @@
+﻿scipy\_doctest.plugin.pytest\_collection\_modifyitems
+=====================================================
+
+.. currentmodule:: scipy_doctest.plugin
+
+.. autofunction:: pytest_collection_modifyitems

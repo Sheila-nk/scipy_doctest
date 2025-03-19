@@ -1,0 +1,6 @@
+﻿scipy\_doctest.impl.has\_masked
+===============================
+
+.. currentmodule:: scipy_doctest.impl
+
+.. autofunction:: has_masked
